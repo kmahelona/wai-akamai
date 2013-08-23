@@ -1,4 +1,4 @@
 wai-akamai
 ==========
 
-He wai akamakai
+He wai akamai
